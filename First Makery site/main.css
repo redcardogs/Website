@@ -1,0 +1,19 @@
+.title {
+    font-size: 65px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2 {
+    background-color: #7100b3;
+    color: #ffffff;
+    padding: 5px;
+    font-size: 60px;
+}
+
+.highlight{ 
+ background-color: #7100b3;
+ color: rgb(255, 255, 255);
+}
